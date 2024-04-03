@@ -210,3 +210,17 @@
 // 10 task starts  
 
 
+
+// function getLevel (n) {
+
+//     const result = [] 
+
+//     for (let i = 1; i <= n ; i++) {
+//         result.push(Math.pow(2, i))
+
+//     }
+//     return result
+// }
+
+// console.log(getLevel(4));
+// console.log(getLevel(5));
